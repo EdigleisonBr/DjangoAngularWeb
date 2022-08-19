@@ -1,4 +1,5 @@
 # Angular - Version Node 14.15.0
+Link video `https://www.youtube.com/watch?v=1Hc7KlLiU9w&t=1082s`
 
 # Initial commands
 
