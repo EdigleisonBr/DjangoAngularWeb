@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.15.0.
 
 
-## Run comand below inside path ui to install Angular:
+## Run comand below inside folder ui to install Angular:
 
 Run `npm install -g @angular/cli`
 
